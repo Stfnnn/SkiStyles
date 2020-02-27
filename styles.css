@@ -39,6 +39,7 @@ body h2 {
 	font-size:30px;
 	letter-spacing: 3px;
 	margin-top:45px;
+	color:#ffffff;
 }
 
 .logo img {
@@ -159,6 +160,7 @@ ul li {
 #content div {
 	flex:2;
 }
+
 #content p {
 	text-align: center;
 	padding:46px;
@@ -177,15 +179,15 @@ ul li {
 }
 
 #content span {
-	color:red;
+	color:#e60000;
 }
 
 #second span {
-	color:red;
+	color:#e60000;
 }
 
 #third spa {
-	color:#ffffff;
+	color:#660000;
 }
 
 
